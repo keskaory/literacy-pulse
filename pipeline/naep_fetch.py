@@ -14,7 +14,7 @@ COHORTS = {
     12: 3
 }
 
-# Per-cohort year chunks: 1992/1994 have no RRPCM data and poison bundles;
+# per-cohort year chunks: 1992/1994 have no RRPCM data and poison bundles;
 # grade 12 was not assessed in 2003 so its 2005-2011 chunk omits it.
 YEAR_CHUNKS = {
     1: ["1998,2000,2002", "2003,2005,2007,2009,2011", "2013,2015,2017,2019,2022,2024"],
@@ -39,9 +39,9 @@ def fetch_naep(cohort, variable, years):
     try:
         response = requests.get(BASE_URL, params=params, timeout=30)
         text = response.text
-        # Strip control characters (CR, LF, and others) from stack traces embedded in error JSON
+        # strip control characters (CR, LF, and others) from stack traces embedded in error JSON
         text = re.sub(r'[\x00-\x08\x0a-\x0c\x0e-\x1f\r]', '', text)
-        # Fix unescaped backslashes from Windows paths
+        # fix unescaped backslashes from windows paths
         text = re.sub(r'\\(?!["\\/bfnrtu])', r'\\\\', text)
         data = json.loads(text)
         result = data.get("result", [])
