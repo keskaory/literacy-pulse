@@ -1,0 +1,493 @@
+year,sample,yearSampleLabel,Cohort,CohortLabel,stattype,subject,grade,scale,jurisdiction,jurisLabel,variable,variableLabel,varValue,varValueLabel,value,isStatDisplayable,errorFlag
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,212.815205030177,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,211.313126272914,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,216.79824213893,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,216.455999255802,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,217.302461151635,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,219.65707104346,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,219.599030284342,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,220.025911570376,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,220.674711019141,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,221.356119236354,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,220.812272480255,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,219.440029789958,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,216.113410808617,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,TOTAL,All students,1,All students,214.274883563924,1,0
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,210.231009932867,1,0
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,215.378456469127,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,206.025550620759,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,216.671389496806,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,213.558211093181,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,220.122505469444,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,212.742015620169,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,220.248736472585,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,214.191987839078,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,220.456416783316,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,216.33830110819,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,223.034873349629,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,216.172663167435,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,223.135706072189,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,216.718656753063,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,223.411923673584,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,217.397647174111,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,224.064785420081,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,217.941540182465,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,224.880054842739,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,217.87646106032,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,223.868642241135,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,215.764343651206,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,223.250687471941,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,213.139972415807,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,219.17524899241,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,1,Male,210.244618155132,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,GENDER,Sex,2,Female,218.450347790248,1,0
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,195.361323454314,1,0
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,225.793967942952,1,0
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,219.358253582416,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,192.225923001388,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,225.826211430163,1,0
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,217.089960614755,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,202.415128411557,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,229.215428618469,1,0
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,217.353392562638,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,201.080514983718,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,228.994696450317,1,0
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,219.399949466393,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,202.697231498559,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,229.700735666344,1,0
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,217.523434149712,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,204.974835733858,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,231.748393209473,1,0
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,220.420745959838,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,206.004556088345,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,232.106942556094,1,0
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,219.015308679087,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,206.891525553684,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,234.383173538853,1,0
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,224.078724098964,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,207.415818548353,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,236.015079461909,1,0
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,231.969055149855,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,209.175612935583,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,236.677465496272,1,0
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,229.177488453643,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,208.06430300425,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,236.0977487823,1,0
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,223.470081385197,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,206.861801076931,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,234.691228428872,1,0
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,218.557958493922,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,202.67159385754,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,230.9929355804,1,0
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,219.17769242118,1,0
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,288
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,288
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,288
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,223.068539455498,1,512
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,191.612797020869,1,512
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,191.699848789023,1,512
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,211.255397600127,1,512
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,769
+1998,R3,1998,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,222.660402956772,1,512
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,188.563346982041,1,512
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,188.003868010726,1,512
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,223.105144060606,1,512
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,769
+2000,R3,2000,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,227.078632221704,1,512
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,197.814415860202,1,512
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,199.473851982701,1,512
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,223.281754263523,1,512
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,206.82645296875,1,512
+2002,R3,2002,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,215.740567772554,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,227.095212302446,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,197.250019201005,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,199.424988688998,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,224.543424456442,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,201.546691958942,1,512
+2003,R3,2003,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,220.237954628453,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,227.63922487463,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,198.89329615535,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,201.336835772499,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,227.24581793816,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,204.639215685429,1,512
+2005,R3,2005,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,221.281542096167,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,229.580010360305,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,202.942280333556,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,203.815938441953,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,231.180172585421,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,205.506686463212,1,512
+2007,R3,2007,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,222.927109566159,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,229.207508193004,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,203.956867341559,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,204.10044457005,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,234.148186021542,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,206.064854093767,1,512
+2009,R3,2009,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,223.873186212007,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,229.723264976479,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,204.906935815768,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,205.437820750552,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,234.258083441084,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,203.636492280919,1,512
+2011,R3,2011,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,225.439846259378,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,230.914591538972,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,205.129968665044,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,206.508292363531,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,234.695452509082,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,205.968065535445,1,512
+2013,R3,2013,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,224.677496523144,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,231.555192013728,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,205.931083905339,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,207.670618060904,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,237.611210730239,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,205.93112223671,1,512
+2015,R3,2015,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,225.55300273955,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,231.036996914853,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,205.314164510771,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,208.027292303881,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,238.472596171442,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,202.813431407101,1,512
+2017,R3,2017,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,225.891672596881,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,229.315177599077,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,202.957797360314,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,208.265910666625,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,237.228804887482,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,203.866796058224,1,512
+2019,R3,2019,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,225.233484200878,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,226.032398493403,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,198.1185800095,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,204.343543437702,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,238.492034705959,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,197.891247217805,1,512
+2022,R3,2022,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,221.531937276052,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,224.195216298315,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,198.057139453252,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,202.757717432702,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,234.209955360648,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,196.43165108739,1,512
+2024,R3,2024,1,Grade 4,MN:MN,RED,4,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,219.015757042555,1,512
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,260.661401275178,1,0
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,262.749748119537,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,261.332615070265,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,260.404509701013,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,261.013950653666,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,262.293617740823,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,263.592526330789,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,266.019136091493,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,263.993973944585,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,265.329360096521,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,261.998327054824,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,259.107725192642,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,TOTAL,All students,1,All students,256.662789624352,1,0
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,253.372087154568,1,0
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,268.146606355632,1,0
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,258.097129778518,1,0
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,267.475437209485,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,256.070677058827,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,266.628067615186,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,255.235474929648,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,265.622420969572,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,256.005541312812,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,266.066785447896,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,257.637769927173,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,267.019505969233,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,258.920040831349,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,268.369038860329,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,261.183221173405,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,271.058966354864,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,259.10068951069,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,269.04672979716,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,260.458996812942,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,270.380217773648,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,256.456064809671,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,267.747402759573,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,255.078459276377,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,263.329748164154,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,1,Male,252.101177491007,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,GENDER,Sex,2,Female,261.430127851098,1,0
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,244.868444076876,1,0
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,268.248488942551,1,0
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,264.197461851712,1,0
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,248.999016355138,1,0
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,271.335609949309,1,0
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,263.930390161909,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,245.868633125812,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,270.74851351708,1,0
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,262.063060452869,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,246.525871147958,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,269.651700393975,1,0
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,258.369499678786,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,247.187918710535,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,270.71573211345,1,0
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,255.119546149134,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,248.617322591672,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,272.658956076692,1,0
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,259.366292434104,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,251.431300917111,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,274.681447051983,1,0
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,264.787818792035,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,253.93652859489,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,277.834891599672,1,0
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,275.616344767549,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,252.552681640879,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,276.363336022225,1,0
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,273.22722050116,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,253.085353045791,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,277.396957182779,1,0
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,266.887087825623,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,249.43145883856,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,274.754696380291,1,0
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,267.445347892447,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,247.88384973847,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,270.453063538011,1,0
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,262.606529532177,1,0
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,288
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,288
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,288
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,268.262833381302,1,512
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,242.034688343342,1,512
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,241.434304201632,1,512
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,261.190097124612,1,512
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,769
+1998,R3,1998,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2000,R3,2000,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,271.055613186394,1,512
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,244.405023429876,1,512
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,245.46317464385,1,512
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,265.023660436353,1,512
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,252.177767234703,1,512
+2002,R3,2002,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,259.928701701013,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,270.435935243569,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,243.601857826887,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,243.808097278589,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,268.396201523977,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,248.236916952623,1,512
+2003,R3,2003,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,261.202629796356,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,269.423985863294,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,242.031714022068,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,244.947612891741,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,269.723771830136,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,250.714132889499,1,512
+2005,R3,2005,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,260.844396813108,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,270.284770974821,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,243.830483904493,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,245.770987637286,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,269.404979405996,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,248.355602307076,1,512
+2007,R3,2007,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,262.495933912918,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,271.360938686043,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,245.458639187081,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,247.835259862806,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,273.080695086331,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,252.235548191201,1,512
+2009,R3,2009,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,264.785151225973,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,272.298207646316,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,247.612736400441,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,251.305748238264,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,274.721266292528,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,252.717840580025,1,512
+2011,R3,2011,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,267.057657912141,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,274.634454159464,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,249.565610801107,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,254.651983808484,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,278.753810056643,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,251.937982740839,1,512
+2013,R3,2013,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,269.451122535142,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,273.118141685466,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,247.174752315724,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,252.529485405256,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,278.760870320143,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,252.817287178353,1,512
+2015,R3,2015,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,267.072414502465,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,273.753889761968,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,248.374186661862,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,254.59896064282,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,281.186351066544,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,252.70538137598,1,512
+2017,R3,2017,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,270.387842790646,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,271.188112726638,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,243.826609432293,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,251.12008440356,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,281.249798867261,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,249.173896492941,1,512
+2019,R3,2019,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,265.70053505041,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,267.107613055302,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,242.76949715017,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,249.807942149625,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,281.073338173685,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,245.913103098731,1,512
+2022,R3,2022,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,262.998395612208,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,265.848045434787,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,242.578752098966,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,244.52104158461,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,279.624509712816,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,244.859886676498,1,512
+2024,R3,2024,2,Grade 8,MN:MN,RED,8,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,261.422053059213,1,512
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,288.594742951535,1,0
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,285.037752338745,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,284.521485420749,1,0
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,287.059557111536,1,0
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,287.058770541022,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,285.379476073674,1,0
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,284.043709114526,1,0
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,999.0,0,320
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,TOTAL,All students,1,All students,281.073241699367,1,0
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,280.307052650786,1,0
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,296.509743454792,1,0
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,276.982917656255,1,0
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,293.053754280145,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,277.637632303189,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,291.015085233421,1,0
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,280.956377956826,1,0
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,292.959650238078,1,0
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,282.108016232904,1,0
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,292.089237454599,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,280.018038053879,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,290.609134178578,1,0
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,277.854567140198,1,0
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,290.348749108894,1,0
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,999.0,0,320
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,999.0,0,320
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,1,Male,276.001492180012,1,0
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,GENDER,Sex,2,Female,286.381642897423,1,0
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,269.474350228479,1,0
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,292.494803476512,1,0
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,289.784512704502,1,0
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,271.549663021855,1,0
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,288.889238673082,1,0
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,286.149738986227,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,270.489013250112,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,289.641526991889,1,0
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,280.957686907026,1,0
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,272.669010040869,1,0
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,293.386872032377,1,0
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,283.045558631521,1,0
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,273.665029981401,1,0
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,295.973461543106,1,0
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,278.482064241877,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,272.741077575841,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,294.649906916764,1,0
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,293.104012248627,1,0
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,270.96540232487,1,0
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,294.060551780148,1,0
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,276.589319264246,1,0
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,320
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,320
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,320
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",1,Eligible,999.0,0,288
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",2,Not eligible,999.0,0,288
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SLUNCH3,"National School Lunch Program eligibility, 3 categories",3,Information not available,999.0,0,288
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,295.127538970896,1,512
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,268.860980280057,1,512
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,273.010002023842,1,512
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,285.247719763,1,512
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,769
+1998,R3,1998,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2000,R3,2000,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,290.62675517862,1,512
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,266.095124427999,1,512
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,271.09953355172,1,512
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,284.101838440204,1,512
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,784
+2002,R3,2002,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,291.300892613493,1,512
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,266.123908627414,1,512
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,270.816009787851,1,512
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,286.428541553997,1,512
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,279.409303910661,1,512
+2005,R3,2005,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,769
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2007,R3,2007,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,294.758070705972,1,512
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,268.228575472104,1,512
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,272.921163367282,1,512
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,298.378338782418,1,512
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,282.500219689937,1,512
+2009,R3,2009,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,292.156482711618,1,512
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2011,R3,2011,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,296.109021607558,1,512
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,266.808725272695,1,512
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,274.680343032974,1,512
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,295.547823445568,1,512
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,276.073412139328,1,512
+2013,R3,2013,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,290.626633709503,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,293.824093763988,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,264.757709972188,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,275.113948020967,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,296.963320438804,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,277.960078015815,1,512
+2015,R3,2015,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,294.144108318262,1,512
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2017,R3,2017,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,293.811894874949,1,512
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,262.532090883278,1,512
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,273.026912464545,1,512
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,298.669634256092,1,512
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,270.680523964691,1,512
+2019,R3,2019,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,294.285100287796,1,512
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,999.0,0,832
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,999.0,0,832
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,999.0,0,832
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,999.0,0,832
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,999.0,0,832
+2022,R3,2022,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,999.0,0,832
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",1,White,290.029821118769,1,512
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",2,Black,261.899016293431,1,512
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",3,Hispanic,271.019476994537,1,512
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",4,Asian/Pacific Islander,300.006631794386,1,512
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",5,American Indian/Alaska Native,263.671786483441,1,512
+2024,R3,2024,3,Grade 12,MN:MN,RED,12,RRPCM,NP,National public,SDRACE,"Race/ethnicity used to report trends, school-reported",6,Two or more races,288.808291244662,1,512
