@@ -1,4 +1,4 @@
-# literacy-pulse
+# literacy pulse
 
 Exploring the decline in American reading proficiency and how shifting media habits might be connected.
 
